@@ -14,5 +14,6 @@
   "noDataAvailable": "Нет данных. Пожалуйста, попробуйте еще раз.",
   "searchCity": "Поиск города",
   "cityExisted": "Город уже существует, выберите другой город",
-  "warmerThan": "Теплее чем"
+  "warmerThan": "Теплее чем",
+  "weather": "Погода: {{main}} ({{description}})"
 }

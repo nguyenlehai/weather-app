@@ -14,5 +14,6 @@
   "noDataAvailable": "No data available. Please try again.",
   "searchCity": "Search city",
   "cityExisted": "City existed, please select other City",
-  "warmerThan": "Warmer than"
+  "warmerThan": "Warmer than",
+  "weather": "Weather: {{main}} ({{description}})"
 }
