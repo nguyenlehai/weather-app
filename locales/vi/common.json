@@ -14,5 +14,6 @@
   "noDataAvailable": "Không có dữ liệu. Vui lòng thử lại.",
   "searchCity": "Tìm kiếm thành phố",
   "cityExisted": "Thành phố đã tồn tại, vui lòng chọn thành phố khác",
-  "warmerThan": "Ấm hơn"
+  "warmerThan": "Ấm hơn",
+  "weather": "Thời tiết: {{main}} ({{description}})"
 }
