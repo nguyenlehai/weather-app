@@ -1,15 +1,15 @@
-##!/usr/bin/env sh
-#. "$(dirname -- "$0")/_/husky.sh"
-#
-#npx lint-staged
-#
-## Check tsconfig standards
-#npm run type-check ||
-#(
-#    echo '🤡😂❌🤡 Failed Type check. 🤡😂❌🤡
-#            Are you seriously trying to write that? Make the changes required above.'
-#    false;
-#)
-#
-## If everything passes... Now we can commit
-#echo '✅✅✅✅ You win this time... I am committing this now. ✅✅✅✅'
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+npx lint-staged
+
+# Check tsconfig standards
+npm run type-check ||
+(
+    echo '🤡😂❌🤡 Failed Type check. 🤡😂❌🤡
+            Are you seriously trying to write that? Make the changes required above.'
+    false;
+)
+
+# If everything passes... Now we can commit
+echo '✅✅✅✅ You win this time... I am committing this now. ✅✅✅✅'
