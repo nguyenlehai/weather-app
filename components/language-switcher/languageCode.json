@@ -1,0 +1,17 @@
+{
+  "vi": {
+    "countryCode": "VN",
+    "name": "Vietnamese",
+    "nativeName": "Tiếng Việt"
+  },
+  "ru": {
+    "countryCode": "RU",
+    "name": "Russian",
+    "nativeName": "русский язык"
+  },
+  "en-US": {
+    "countryCode": "US",
+    "name": "English",
+    "nativeName": "English (US)"
+  }
+}

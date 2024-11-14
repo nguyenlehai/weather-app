@@ -1,0 +1,18 @@
+{
+  "title": "Weather App",
+  "description": "Get detail weather anywhere",
+  "language": "Language",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "titleApp": "WEATHER APPLICATION",
+  "temperature": "Temperature: {{temp}} °C",
+  "wind": "Wind: {{speed}} m/s",
+  "country": "Other: {{country}} ",
+  "noDataList": "No cities match your temperature filter.",
+  "select": "Select",
+  "noDataAvailable": "No data available. Please try again.",
+  "searchCity": "Search city",
+  "cityExisted": "City existed, please select other City",
+  "warmerThan": "Warmer than"
+}
