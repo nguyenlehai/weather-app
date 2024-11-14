@@ -1,0 +1,18 @@
+{
+  "title": "Ứng dụng Thời tiết",
+  "description": "Xem chi tiết thời tiết ở bất kỳ đâu",
+  "language": "Ngôn ngữ",
+  "light": "Sáng",
+  "dark": "Tối",
+  "system": "Hệ thống",
+  "titleApp": "ỨNG DỤNG THỜI TIẾT",
+  "temperature": "Nhiệt độ: {{temp}} °C",
+  "wind": "Gió: {{speed}} m/s",
+  "country": "Khác: {{country}} ",
+  "noDataList": "Không có thành phố nào phù hợp với bộ lọc nhiệt độ của bạn.",
+  "select": "Chọn",
+  "noDataAvailable": "Không có dữ liệu. Vui lòng thử lại.",
+  "searchCity": "Tìm kiếm thành phố",
+  "cityExisted": "Thành phố đã tồn tại, vui lòng chọn thành phố khác",
+  "warmerThan": "Ấm hơn"
+}
